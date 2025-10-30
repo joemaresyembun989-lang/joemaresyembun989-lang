@@ -8,8 +8,8 @@
 
 ---
 
-- 🌱 I’m currently learning **Flask, MySQL, React, dan konsep struktur data & algoritma.**  
-- 📫 How to reach me **joemaresyembun989@gmail.com**  
+- 🌱 **Saat ini saya sedang belajar Flask, MySQL, React, dan konsep struktur data & algoritma.**
+- 📫 Cara menghubungi saya: **joemaresyembun989@gmail.com**
 - ⚡ Fun fact **Saya suka tertawa, tapi senyumanku bisa bikin kamu error sejenak. 💻💘**
 
 <h3 align="left">Connect with me:</h3>
