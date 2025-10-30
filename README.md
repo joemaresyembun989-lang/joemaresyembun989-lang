@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joee</h1>
+<h1 align="center">Hi 👋,Aku Joee</h1>
 <h3 align="center">“Cintaku ke kamu nggak bakal break, selalu continue meski di-loop berkali-kali.”</h3>
 
 <p align="center">
